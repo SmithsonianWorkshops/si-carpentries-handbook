@@ -1,0 +1,14 @@
+language: python
+
+before_deploy:
+  - pip install -r requirements.txt
+  - sphinx-build . -a _build/html"
+
+deploy:
+    - provider: pages
+      skip_cleanup: true
+      github_token: $GH_TOKEN
+      local_dir: _build/html
+      on:
+        branch: master
+        python: 3.7
