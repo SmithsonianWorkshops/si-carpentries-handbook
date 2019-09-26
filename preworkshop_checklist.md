@@ -12,7 +12,8 @@ This checklist aims to help organize Carpentry Workshops at the Smithsonian.
 
 ## Checking space availability and reserving a room
 
-* Access the SI Room Reservation System (here)[]
+* Access the SI Room Reservation System [here](https://fc.si.edu/)
+* Here’s the Prism resource for reservable rooms around the various museums: [http://prism2.si.edu/collaboration/pages/mtgplanning.aspx](http://prism2.si.edu/collaboration/pages/mtgplanning.aspx)
 * You can select the room based on seating capacity, location, equipment available, etc.
 	* NMNH: 
 		* For large workshops: WG-33 (Vertebrate Zoology Seminar Room). It has enough room for 50 people.
@@ -21,6 +22,8 @@ This checklist aims to help organize Carpentry Workshops at the Smithsonian.
 		* Rose Room: Listed as a capacity of 25, but we had ~40 in there for the first workshop.
 	* NZP
 		* Conference Room at DCB
+	* SAAM
+		* MacMillan Education Center: it can probably accommodate 20 people at the big conference table. Contact Ryan Linthicum, [LinthicumR@si.edu](mailto:LinthicumR@si.edu) to reserve.
 	* SERC
 		* Matthias 1013
 * To reserve the Castle Library, email [CastleScheduler@si.edu](mailto:CastleScheduler@si.edu) with a request for dates.

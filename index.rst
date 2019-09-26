@@ -16,4 +16,4 @@ Smithsonian Carpentries Handbook
    postworkshop_checklist
    workshop_website
    eventbrite
-   community_management
+   building_this_site

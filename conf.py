@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'si_carpentries'
+project = 'The SI Carpentries Handbook'
 copyright = '2019, SI Carpentries'
 author = 'SI Carpentries'
 
@@ -58,4 +58,13 @@ html_theme = 'sphinx_rtd_theme'
 #html_static_path = ['_static']
 
 html_logo = 'images/si_carp_logo.png'
+html_favicon = 'images/favicon.ico'
 html_short_title = 'SI Carpentries Handbook'
+
+html_context = {
+  'display_github': True,
+  'github_user': 'SmithsonianWorkshops',
+  'github_repo': 'si-carpentries-handbook',
+  'github_version': 'master/',
+  'theme_vcs_pageview_mode': 'blob'
+}
