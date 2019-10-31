@@ -19,8 +19,10 @@
 	1. To create a new Etherpad: go to https://pad.carpentries.org and create a new pad with the same extension as the GitHub website. For example: Course website: https://smithsonianworkshops.github.io/2019-05-16-castle/ Etherpad link: https://pad.carpentries.org/2019-05-16-castle
 1. After that, you need to change the following files from the gh-pages branch:
 	1. _config.yml: The only things that must be changed are:
-		1. The type of carpentry (line 10)
-		1. Workshop title (line 13)
+		1. The type of carpentry (line 14)
+		1. Type of DC workshop (Curriculum) (line 24)
+		1. Flavor of workshop (r or python) (line 30)
+		1. Workshop title (line 38)
 	1. Index.md: this one is quite long. This where you will add all the workshop information. 
 		1. Lines 2 to 18: basic info (type of carpentry, location, dates, etc). All the required info will be marked with FIXME
 		1. You need to delete the irrelevant info from the SETUP part. Keep only the lessons that will be included. :) 
