@@ -33,10 +33,11 @@ This checklist aims to help organize Carpentry Workshops at the Smithsonian.
 * Mailing lists to announce the workshop:
 	* Genomics ([GENOMICS@SI-LISTSERV.SI.EDU](mailto:GENOMICS@SI-LISTSERV.SI.EDU))
 	* Data Science ([DATA-SCIENCE@SI-LISTSERV.SI.EDU](mailto:DATA-SCIENCE@SI-LISTSERV.SI.EDU))
+	* Carpentries-Announce ([CARPENTRIES-ANNOUNCE@SI-LISTSERV.SI.EDU](mailto:CARPENTRIES-ANNOUNCE@SI-LISTSERV.SI.EDU))
 	* SI-All ([http://prism2.si.edu/OCIO/ITSupportDocs/IT-971-TN01-F1.docx](http://prism2.si.edu/OCIO/ITSupportDocs/IT-971-TN01-F1.docx))
 * Slacks:
-	* SI-wide
-	* NMNH Informatics
+	* SI-wide (General)
+	* SI-wdie (carpentries-alumni)
 * Post fliers to NMNH elevators
 * Social Media (Twitter, etc) 
 
