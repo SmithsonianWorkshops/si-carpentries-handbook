@@ -69,4 +69,4 @@ This checklist aims to help organize Carpentry Workshops at the Smithsonian.
 * Stickers and other swag
 * Flipchart or whiteboard with felt-tip pen (from The Carpentries Website)
 * Coffee and snacks
-* The NMNH Library has a large coffee urn. It can be reserved by contacting Sue Zwicker (zwickers@si.edu)
+  * The SI Data Science lab has a coffee urn for use in workshops.
