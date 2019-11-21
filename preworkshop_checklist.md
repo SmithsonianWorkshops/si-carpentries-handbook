@@ -27,6 +27,7 @@ This checklist aims to help organize Carpentry Workshops at the Smithsonian.
 	* SERC
 		* Matthias 1013
 * To reserve the Castle Library, email [CastleScheduler@si.edu](mailto:CastleScheduler@si.edu) with a request for dates.
+* To add: How to request chairs for the Castle Library
 
 ## Workshop announcements
 
@@ -54,19 +55,19 @@ This checklist aims to help organize Carpentry Workshops at the Smithsonian.
 
 ### Required Items
 
-* Sticky notes (green/red, or any combination with the same meaning)
+* Sticky notes (blue=good/yellow=help), or any combination with the same meaning)
 	* 8 of each color per person
 * Power strips
 	* One power strip for every 3 learners 
 * Extension cords
-* Projector
+* Projector (Matt K. has one that can be borrowed)
 
 ### Nice-to-haves
 
 * Direction signs to the workshop room
-* Name tags
+* Name tags or tents
 * Pronoun stickers would be a great addition to future workshops
 * Stickers and other swag
 * Flipchart or whiteboard with felt-tip pen (from The Carpentries Website)
 * Coffee and snacks
-  * The SI Data Science lab has a coffee urn for use in workshops.
+  * The SI Data Science lab has a coffee urn for use in workshops. It takes about 1.5 hours to brew a full pot.
