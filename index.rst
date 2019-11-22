@@ -14,6 +14,7 @@ Smithsonian Carpentries Handbook
    workshop_intro
    workshop_outro
    postworkshop_checklist
+   email_templates
    workshop_website
    eventbrite
    building_this_site
