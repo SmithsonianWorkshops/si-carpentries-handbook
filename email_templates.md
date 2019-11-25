@@ -82,9 +82,11 @@ Feel free to share this Listserv sign-up link, and we hope you are able to join 
 
 ## Post-workshop email
 
+*SUBJECT*: Data Carpentry Workshop Follow-up
+
 Hi All,
 
-Thank you for participating in the Data Carpentry workshop last week. We hope you left the workshop feeling empowered to continue learning more about the tools that were covered. Like we tried to repeat several times during the workshop, you won't feel completely comfortable with any of the tools until you try them out on your own data, so I hope you have had a chance to put your new skills into practice since then. 
+Thank you for participating in the Data Carpentry workshop last week. We hope you left the workshop feeling empowered to continue learning more about the tools that were covered. Like we tried to repeat several times during the workshop, you won't feel completely comfortable with any of the tools until you try them out on your own data, so we hope you have had a chance to put your new skills into practice since then. 
 
 We would like to capture your thoughts about what was covered and your perception of the workshop overall. Please complete the post-workshop survey at [*SURVEY LINK*] as soon as possible.
 
