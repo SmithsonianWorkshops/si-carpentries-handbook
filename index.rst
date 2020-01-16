@@ -9,7 +9,8 @@ Smithsonian Carpentries Handbook
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   timeline
    preworkshop_checklist
    workshop_intro
    workshop_outro
