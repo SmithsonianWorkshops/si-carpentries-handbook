@@ -5,5 +5,5 @@
 * *3 weeks before*: [Announcement email](https://smithsonianworkshops.github.io/si-carpentries-handbook/email_templates.html#workshop-announcement) to carpentries-announce listserv and carpentries-alumni Slack channel
 * *Monday of 2 weeks before*: SI-All [announcement email](https://smithsonianworkshops.github.io/si-carpentries-handbook/email_templates.html#workshop-announcement)
 * *2 weeks before*: Registration opens
-* *Monday before*: [Email to participants](https://smithsonianworkshops.github.io/si-carpentries-handbook/email_templates.html#workshop-details-to-registrants) with workshop details
+* *1 week before*: [Email to participants](https://smithsonianworkshops.github.io/si-carpentries-handbook/email_templates.html#workshop-details-to-registrants) with workshop details
 * *Monday or Tuesday afterwards*: [Post-workshop email](https://smithsonianworkshops.github.io/si-carpentries-handbook/email_templates.html#post-workshop-email)
