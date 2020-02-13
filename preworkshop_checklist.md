@@ -59,8 +59,10 @@ This checklist aims to help organize Carpentry Workshops at the Smithsonian.
 	* 8 of each color per person
 * Power strips
 	* One power strip for every 3 learners 
+	* A few extensions cords
 * Extension cords
-* Projector (Matt K. has one that can be borrowed)
+* For the Castle Library: Projector (Matt K. has one that can be borrowed)
+* Wireless lavalier microphone, portable speaker and atleast eight extra AA batteries (see Matt K.)
 
 ### Nice-to-haves
 
@@ -68,6 +70,8 @@ This checklist aims to help organize Carpentry Workshops at the Smithsonian.
 * Name tags or tents
 * Pronoun stickers would be a great addition to future workshops
 * Stickers and other swag
-* Flipchart or whiteboard with felt-tip pen (from The Carpentries Website)
+* Flipchart or whiteboard with felt-tip pen (from The Carpentries Website although we haven't been using these in our workshops)
 * Coffee and snacks
   * The SI Data Science lab has a coffee urn for use in workshops. It takes about 1.5 hours to brew a full pot.
+  * The best spot to fill the urn in the Castle is a water bottle filling station in the basement near the staff food service.
+  * The coffee recipie is 2 cups grounds to make a full urn (40 cups) 
