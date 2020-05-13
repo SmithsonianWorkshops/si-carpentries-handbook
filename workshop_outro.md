@@ -47,6 +47,12 @@ Slack is a message board/chat system.
 2. You will get an email from Slack, and click Confirm Email. This link will send you to a page where you will fill in your name, and set a password. After doing this, you will be logged into Slack and prompted to "Explore Slack". I recommend go through this tour if you are unfamiliar with the system.
 3. You will automatically be "added" to the #general and #random "channels". These channels appear at the top of the list of all channels on the left side, and all others are greyed-out. Click on the greyed-out #carpentries-alumni, and then click the "Join Channel" button in the main window. If you do not see #carpentries-alumni as an option, click "+ Add a channel" below the list of channels. Search for carpentries-alumni, then click on the link to go to the channel. At the bottom of the screen, click the "Join Channel" button to join the channel.
 
+### Carpentries Alumni Microsoft Team
+
+Microsoft Teams is a chat and video call system, that is similar to Slack.
+
+You can access the "Carpentries Alumni" Microsoft Team with this [direct link](https://teams.microsoft.com/l/team/19%3aacffb6ba096b4fb0ad93595df6e89220%40thread.tacv2/conversations?groupId=2e7c0abd-0ad8-4de0-bcf3-05af4b99aa38&tenantId=989b5e2a-14e4-4efe-93b7-8cdd5fc5d11c). The "Carpentries Alumni" team is set as a public team, so you should be able to access it via the Teams button on the left sidebar.
+
 ### Monthly Carpentries Brown Bag
 
 The Carpentries Brown Bags are a series of monthly lunchtime gatherings for Smithsonian-affiliated staff, fellows, interns, contractors, etc. to discuss topics relating to Smithsonian Data or Software Carpentry workshop content.
