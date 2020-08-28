@@ -18,4 +18,5 @@ Smithsonian Carpentries Handbook
    email_templates
    workshop_website
    eventbrite
+   calendar_invite
    building_this_site
