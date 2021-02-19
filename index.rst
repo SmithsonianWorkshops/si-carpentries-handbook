@@ -6,6 +6,11 @@
 Smithsonian Carpentries Handbook
 ================================
 
+This handbook is an effort to consolidate several stand-alone resources relating
+to running Carpentries workshops at the Smithsonian Institution.
+
+Contributions are welcome and encouraged.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

@@ -19,11 +19,13 @@
 	1. `syllabus.html`:
 	1. `schedule.html`:
 
-## Embed Eventbrite Registration
+## Optional: Making an empty Main Branch
 
-## Optional: Making an empty Master Branch
+By default, when a user goes to the GitHub repository for the workshop, they will be confused by seeing confusing instructions about building a website. We can move all of these supporting files away from view, and have a fresh space to store workshop-related files such as Jupyter/R Notebooks, EtherPad exports, etc.
 
 ### Using GitHub GUI
+
+
 
 ### Using command line interface
 
