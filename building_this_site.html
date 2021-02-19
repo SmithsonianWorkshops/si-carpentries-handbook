@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Building this site &mdash; The SI Carpentries Handbook  documentation</title>
+  
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+
+  
+  
+    <link rel="shortcut icon" href="_static/favicon.ico"/>
+  
+
+  
+  
+
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Saving a calendar invite for sharing" href="calendar_invite.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> The SI Carpentries Handbook
+          
+
+          
+            
+            <img src="_static/si_carp_logo.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="timeline.html">Planning Timeline</a></li>
+<li class="toctree-l1"><a class="reference internal" href="preworkshop_checklist.html">Pre-workshop Checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="workshop_intro.html">Workshop Intro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="workshop_outro.html">Workshop Outro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="postworkshop_checklist.html">Post-workshop Checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="email_templates.html">Email templates</a></li>
+<li class="toctree-l1"><a class="reference internal" href="workshop_website.html">Creating a Workshop Website</a></li>
+<li class="toctree-l1"><a class="reference internal" href="eventbrite.html">Eventbrite Ticketing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="calendar_invite.html">Saving a calendar invite for sharing</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Building this site</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#required-dependencies">Required dependencies</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#site-structure">Site structure</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#formatting-hyperlinks">Formatting Hyperlinks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#additional-information">Additional information</a></li>
+</ul>
+</li>
+</ul>
+
+            
+          
+        </div>
+        
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">The SI Carpentries Handbook</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+        
+      <li>Building this site</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+          
+            
+              <a href="https://github.com/SmithsonianWorkshops/si-carpentries-handbook/blob/master/building_this_site.md" class="fa fa-github"> Edit on GitHub</a>
+            
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="building-this-site">
+<h1>Building this site<a class="headerlink" href="#building-this-site" title="Permalink to this headline">¶</a></h1>
+<p>(Taken from <a class="reference external" href="https://docs.carpentries.org/readme.html#building-this-site">https://docs.carpentries.org/readme.html#building-this-site</a>)</p>
+<p>This site is built using the <a class="reference external" href="http://www.sphinx-doc.org/en/stable/">Sphinx</a> documentation generator (a Python tool) and the <a class="reference external" href="https://github.com/rtfd/sphinx_rtd_theme">Read the Docs theme</a> for the style. (Not to be confused with readthedocs.io - the site is <em>not</em> hosted at readthedocs.io!)</p>
+<p>For more information about using Sphinx, see the <a class="reference external" href="http://www.sphinx-doc.org/en/stable/usage/quickstart.html">Getting Started guide (sphinx-doc.org)</a> or the <a class="reference external" href="https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html#quick-start">Quick Start (readthedocs.io)</a> for an explanation of how to use Sphinx.</p>
+<div class="section" id="required-dependencies">
+<h2>Required dependencies<a class="headerlink" href="#required-dependencies" title="Permalink to this headline">¶</a></h2>
+<p>To install the required dependencies (Sphinx and the ReadTheDocs Sphinx theme), execute the following command from the repository directory to install all Python dependencies:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ pip install -r requirements.txt 
+</pre></div>
+</div>
+<p>After installing the dependencies, you can build the site locally by executing the following command from the repository:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ make html
+</pre></div>
+</div>
+<p>Open the file <code class="docutils literal notranslate"><span class="pre">_build/html/index.html</span></code> to preview the site locally. Python offers a quick way to run a web server to serve local files. Run the following:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ cd _build/html
+
+# Python 3:
+$ python3 -m http.server
+</pre></div>
+</div>
+<p>In both cases, a local web server will be run on port <code class="docutils literal notranslate"><span class="pre">8000</span></code>, so navigate to <a class="reference external" href="http://localhost:8000">http://localhost:8000</a> in your browser to view the site locally.</p>
+<p>You can make changes to the contents of the repository, and re-run <code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">html</span></code>, to update the website contents. If you are having problems with the site not refreshing, you can delete the contents of the <code class="docutils literal notranslate"><span class="pre">_build</span></code> directory (which are automatically generated) with <code class="docutils literal notranslate"><span class="pre">rm</span> <span class="pre">-fr</span> <span class="pre">_build/*</span></code>.</p>
+<p>If new files or folders are added to the Handbook, <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> will need to be updated for those to be included in the final site by Sphinx.</p>
+</div>
+<div class="section" id="site-structure">
+<h2>Site structure<a class="headerlink" href="#site-structure" title="Permalink to this headline">¶</a></h2>
+<p>The root level <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> generates the main categories and the sidebar navigation.  Each sub-section is a folder in the <code class="docutils literal notranslate"><span class="pre">topic_folders</span></code> directory. Each folder within the <code class="docutils literal notranslate"><span class="pre">topic_folders</span></code> directory has its own <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> file. These then expand into the subcategories in each directory.</p>
+<p>Within each folder’s <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> file, the section heading is defined by a string of  <code class="docutils literal notranslate"><span class="pre">=</span></code> beneath it. Subheadings can be defined using <code class="docutils literal notranslate"><span class="pre">###</span></code> in each markdown file or by a heading with <code class="docutils literal notranslate"><span class="pre">-</span></code> under it in the <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> file.</p>
+</div>
+<div class="section" id="formatting-hyperlinks">
+<h2>Formatting Hyperlinks<a class="headerlink" href="#formatting-hyperlinks" title="Permalink to this headline">¶</a></h2>
+<p>In markdown documents, links can be formatted in standard markdown, with the text in square brackets and the hyperlink in parentheses:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="p">[</span><span class="n">text</span><span class="p">](</span><span class="n">hyperlink</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>For the <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> files, links must be formatted as follows. Note the text is followed by the hyperlink in pointy brackets, everything is wrapped in backticks, and then followed by an underscore.</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>`text&lt;hyperlink&gt;`_
+</pre></div>
+</div>
+</div>
+<div class="section" id="additional-information">
+<h2>Additional information<a class="headerlink" href="#additional-information" title="Permalink to this headline">¶</a></h2>
+<p>This site is built from the master branch of <a class="reference external" href="https://github.com/carpentries/handbook/">this repo (carpentries/handbook)</a>. Changes can be previewed live here: <a class="reference external" href="http://docs-src.carpentries.org/">http://docs-src.carpentries.org/</a>.  Changes to the actual site <a class="reference external" href="https://docs.carpentries.org/">https://docs.carpentries.org/</a>  can take up to a day to go live once changes have been pushed to GitHub, since the contents of the site are behind a CDN (Content Distribution Network) that caches content.</p>
+<p>If you are making experimental changes to content please be sure to do so in a non-master, non-live branch. When your changes are complete and ready to be pushed to the live site, open a pull request in <a class="reference external" href="https://github.com/carpentries/handbook">carpentries/handbook</a>.</p>
+<p>Draft content can be added to the <a class="reference external" href="https://github.com/carpentries/usersguides/tree/master/drafts">drafts folder of the carpentries/userguides repo</a> (in the master branch) without breaking anything. Draft content is not built to the live site and these files may contain inaccurate or out of date information.</p>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+        <a href="calendar_invite.html" class="btn btn-neutral float-left" title="Saving a calendar invite for sharing" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &#169; Copyright 2019, SI Carpentries.
+
+    </p>
+  </div>
+    
+    
+    
+    Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>
