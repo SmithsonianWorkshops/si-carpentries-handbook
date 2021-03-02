@@ -15,6 +15,7 @@ Contributions are welcome and encouraged.
    :maxdepth: 2
    :caption: Contents:
    
+   communication
    timeline
    preworkshop_checklist
    workshop_intro
