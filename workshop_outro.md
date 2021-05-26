@@ -59,7 +59,7 @@ The Carpentries Brown Bags are a series of monthly lunchtime gatherings for Smit
 
 We are hoping that these Brown Bags will enable us to continue the learning we started in our two-day workshops, while fostering a community of workshop "alumni" who can collaborate and support one another in our data and coding endeavors. (That said, if you are an SI-affiliated individual but you have not had a chance to participate in a workshop, you are still welcome to attend these Brown Bags!)
 
-The Brown Bags will generally be held on the fourth Thursday of every month from 12pm--1pm EST. On occasion, Brown Bags may be moved due to holidays; please check the detailed schedule for the exact dates.
+The Brown Bags will generally be held on the fourth Wednesday of every month from 1pm-2pm EST. On occasion, Brown Bags may be moved due to holidays; please check the detailed schedule for the exact dates.
 
 Schedule: [https://github.com/SmithsonianWorkshops/carpentries-brown-bag/wiki/Schedule](https://github.com/SmithsonianWorkshops/carpentries-brown-bag/wiki/Schedule)
 
