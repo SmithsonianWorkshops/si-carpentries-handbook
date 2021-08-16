@@ -2,7 +2,7 @@
 
 ## Workshop announcement
 
-*SUBJECT*: Quarterly SI Data Carpentry Workshop: Autumn 2019 Edition
+*SUBJECT*: Quarterly SI Data Carpentry Workshop: [*Autumn 2019*] Edition
 
 The Smithsonian Carpentries Team will be offering a 2-day Data Carpentry workshop on [*DATES*] in the [*WORKSHOP LOCATION*], where we will teach data manipulation best practices using:
 * OpenRefine, 
@@ -11,9 +11,9 @@ The Smithsonian Carpentries Team will be offering a 2-day Data Carpentry worksho
 
 You do not need to have any previous knowledge of the tools that will be presented at the workshop.
 
-Registration for the workshop will open at 10AM [*EST or EDT*] on [*DATE*] at [*COURSE WEBSITE*].
+Registration for the workshop will open at 10AM [*EST or EDT*] on [*DATE*] at [*COURSE WEBSITE*]
 
-The Smithsonian Carpentries Team is a pan-institutional group of Smithsonian staff and fellows who work with data and computational tools on a daily basis, and are passionate about building a community of data practitioners at the Smithsonian. The group is coordinated by the OCIO Data Science Lab, and you can learn more about past and upcoming workshops at [https://datascience.si.edu/carpentries](https://datascience.si.edu/carpentries). 
+The Smithsonian Carpentries Team is a pan-institutional group of Smithsonian staff and fellows who work with data and computational tools on a daily basis, and are passionate about building a community of data practitioners at the Smithsonian. The group is coordinated by the OCIO Data Science Lab, and you can learn more about past and upcoming workshops at [https://datascience.si.edu/carpentries](https://datascience.si.edu/carpentries) 
 
 ## Workshop details to registrants
 
