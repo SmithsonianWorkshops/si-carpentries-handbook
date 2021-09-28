@@ -1,7 +1,9 @@
 # Post-workshop Checklist
 
-* Follow up with [mailto:team@carpentries.org](team@carpentries.org) about how many attendees participated,
+* Submit a self-organized workshop form to the Carpentries organization: https://amy.carpentries.org/forms/self-organised/
+    * Alternatively, send an email to [mailto:team@carpentries.org](team@carpentries.org) about how many attendees participated,
 and also with the email addresses for any helpers not in Carpentries AMY database.
+* Send a follow-up email to workshop participants (see below)
 
 ## Post-workshop email to attendees
 
