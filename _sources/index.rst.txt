@@ -24,5 +24,6 @@ Contributions are welcome and encouraged.
    email_templates
    workshop_website
    eventbrite
+   eventbrite_waitlist
    calendar_invite
    building_this_site
