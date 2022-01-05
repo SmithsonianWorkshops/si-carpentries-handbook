@@ -6,12 +6,16 @@
     * (Your name added soon to Active Instructors)
 * Monthly SI Carpentry Instructor meetings
     * First Wednesday of each month at 10 AM EST
-    * Next meeting is March 3
     * Mike will add you all to the calendar invite
 * Smithsonian Slack *workspace*, #carpentries-instruct *channel*
     * Go to [https://smithsonian.slack.com/signup](https://smithsonian.slack.com/signup), and enter your SI email address (must be @si.edu or @cfa.harvard.edu).
     * Message Mike in Slack, and he will add you.
-* Monthly Carpentries Brown Bags
+    * There is also a public #carpentries-alumni channel that anyone can join.
+    * There is also a private #carpentries-in-workshop channel for communication during a workshop.
+* Microsoft Teams
+    * Within the Smithsonian Teams account, there is a Team called "SI-Carpentries"
+    * Join that Team, and send a chat to Mike or Luis to be added to the private Instructors "Channel"
+* Monthly Carpentries Community Chats
     * These are an effort to keep "alumni" of Carpentries workshops engaged with next-level topics from those taught in workshops.
     * Fourth Wednesday of each Month at 1-2 Eastern
     * [https://github.com/SmithsonianWorkshops/carpentries-brown-bag](https://github.com/SmithsonianWorkshops/carpentries-brown-bag)
