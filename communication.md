@@ -15,7 +15,7 @@
 * Microsoft Teams
     * Within the Smithsonian Teams account, there is a Team called "SI-Carpentries"
     * Join that Team, and send a chat to Mike or Luis to be added to the private Instructors "Channel"
-* Monthly Carpentries Community Chats
+* Monthly Carpentries Brown Bags
     * These are an effort to keep "alumni" of Carpentries workshops engaged with next-level topics from those taught in workshops.
     * Fourth Wednesday of each Month at 1-2 Eastern
     * [https://github.com/SmithsonianWorkshops/carpentries-brown-bag](https://github.com/SmithsonianWorkshops/carpentries-brown-bag)
