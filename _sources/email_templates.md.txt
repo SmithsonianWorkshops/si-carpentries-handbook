@@ -15,7 +15,7 @@ Registration for the workshop will open at 10AM [*EST or EDT*] on [*DATE*] at [*
 
 The Smithsonian Carpentries Team is a pan-institutional group of Smithsonian staff and fellows who work with data and computational tools on a daily basis, and are passionate about building a community of data practitioners at the Smithsonian. The group is coordinated by the OCIO Data Science Lab, and you can learn more about past and upcoming workshops at [https://datascience.si.edu/carpentries](https://datascience.si.edu/carpentries) 
 
-## Workshop details to registrants
+## Workshop details to registrants (in person)
 
 *Subject*: Important details about [*DATES*] Data Carpentry Workshop
 
@@ -46,6 +46,34 @@ Best,
 
 Smithsonian Carpentries
 
+[https://datascience.si.edu/carpentries](datascience.si.edu/carpentries)
+
+## Workshop details to registrants (online)
+
+*Subject*: Important details about [*DATES*] Data Carpentry Workshop
+
+Hello all,  
+
+We are excited for the Data Carpentry workshop starting in one week and we hope you are too. As a reminder the days are [*DATES*] from [*TIMES AND TIME ZONE*]. Be sure to complete the pre-workshop survey: [*SURVEY LINK*]. We will be using Zoom for this workshop, we will send the connection details the day before Day 1.  
+ 
+A few notes:  
+Code of Conduct: Please read the Carpentries Code of Conduct [https://datascience.si.edu/carpentries](https://datascience.si.edu/carpentries) so that we all are aware of how to treat each other respectfully.  
+
+Attendance: If you will no longer be able to participate in the workshop, please let us know ASAP so we can reach out to others who are currently on the waitlist.  
+
+Workshop Website: You can find the schedule, our collaborative note-taking document, links to the course material, and links to help install the required software here: [*WEBSITE LINK*]
+
+Etherpad: We will be using this web document called an Etherpad (similar to a GoogleDoc) to take notes and work on challenge questions during the workshop: [*ETHERPAD LINK*]. No account is needed to access this document.   
+
+Software Installation: We will be learning how to work with data using Excel, OpenRefine, SQLite Browser, and [PYTHON | R AND RSTUDIO]. You can find installation instructions for each of these programs here https://datacarpentry.org/ecology-workshop/setup-python-workshop.html [*OR*] https://datacarpentry.org/ecology-workshop/setup-r-workshop.html. Please try to install them before the start of the workshop and let us know if you have any issues so that we can plan additional time for troubleshooting before the workshop starts. We have workarounds and backup solutions for all of them. Please note, Excel or Google Sheets will work for the Spreadsheet section, most people do not find it necessary to install LibreOffice.
+
+Screen set up: During this workshop, you will be watching an instructor do live coding while you follow along in your own installed software. We suggest that, if possible, you use two screens for this workshop - one screen for your installed software and the Etherpad (e.g. your main computer screen), and a second screen to watch the instructor via Zoom (e.g. a second monitor, a separate computer, a tablet). If you do not have a second screen -- do not worry -- you can still fully participate in this workshop, but it might be a little more inconvenient. You can practice having two windows (the video conference program and one of the tools you will be using at the workshop) open together. Or you could try switching between screens using your keyboard.  
+
+Accessibility:  We are committed to making sure that the workshop is accessible to everyone. Please tell us if there is anything we should know in advance in order to make the workshop accessible for you.  
+
+As usual, let us know if you have any questions. Looking forward to seeing you soon!  
+
+Smithsonian Carpentries
 [https://datascience.si.edu/carpentries](datascience.si.edu/carpentries)
 
 ## Waitlist opening

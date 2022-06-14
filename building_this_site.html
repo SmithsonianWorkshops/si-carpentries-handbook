@@ -15,6 +15,7 @@
         <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
         <script src="_static/jquery.js"></script>
         <script src="_static/underscore.js"></script>
+        <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
         <script src="_static/doctools.js"></script>
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
@@ -85,12 +86,12 @@
            <div itemprop="articleBody">
              
   <section id="building-this-site">
-<h1>Building this site<a class="headerlink" href="#building-this-site" title="Permalink to this headline"></a></h1>
+<h1>Building this site<a class="headerlink" href="#building-this-site" title="Permalink to this heading"></a></h1>
 <p>(Taken from <a class="reference external" href="https://docs.carpentries.org/readme.html#building-this-site">https://docs.carpentries.org/readme.html#building-this-site</a>)</p>
 <p>This site is built using the <a class="reference external" href="http://www.sphinx-doc.org/en/stable/">Sphinx</a> documentation generator (a Python tool) and the <a class="reference external" href="https://github.com/rtfd/sphinx_rtd_theme">Read the Docs theme</a> for the style. (Not to be confused with readthedocs.io - the site is <em>not</em> hosted at readthedocs.io!)</p>
 <p>For more information about using Sphinx, see the <a class="reference external" href="http://www.sphinx-doc.org/en/stable/usage/quickstart.html">Getting Started guide (sphinx-doc.org)</a> or the <a class="reference external" href="https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html#quick-start">Quick Start (readthedocs.io)</a> for an explanation of how to use Sphinx.</p>
 <section id="required-dependencies">
-<h2>Required dependencies<a class="headerlink" href="#required-dependencies" title="Permalink to this headline"></a></h2>
+<h2>Required dependencies<a class="headerlink" href="#required-dependencies" title="Permalink to this heading"></a></h2>
 <p>To install the required dependencies (Sphinx and the ReadTheDocs Sphinx theme), execute the following command from the repository directory to install all Python dependencies:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span>$ pip install -r requirements.txt 
 </pre></div>
@@ -111,12 +112,12 @@ $ python3 -m http.server
 <p>If new files or folders are added to the Handbook, <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> will need to be updated for those to be included in the final site by Sphinx.</p>
 </section>
 <section id="site-structure">
-<h2>Site structure<a class="headerlink" href="#site-structure" title="Permalink to this headline"></a></h2>
+<h2>Site structure<a class="headerlink" href="#site-structure" title="Permalink to this heading"></a></h2>
 <p>The root level <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> generates the main categories and the sidebar navigation.  Each sub-section is a folder in the <code class="docutils literal notranslate"><span class="pre">topic_folders</span></code> directory. Each folder within the <code class="docutils literal notranslate"><span class="pre">topic_folders</span></code> directory has its own <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> file. These then expand into the subcategories in each directory.</p>
 <p>Within each folder’s <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> file, the section heading is defined by a string of  <code class="docutils literal notranslate"><span class="pre">=</span></code> beneath it. Subheadings can be defined using <code class="docutils literal notranslate"><span class="pre">###</span></code> in each markdown file or by a heading with <code class="docutils literal notranslate"><span class="pre">-</span></code> under it in the <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> file.</p>
 </section>
 <section id="formatting-hyperlinks">
-<h2>Formatting Hyperlinks<a class="headerlink" href="#formatting-hyperlinks" title="Permalink to this headline"></a></h2>
+<h2>Formatting Hyperlinks<a class="headerlink" href="#formatting-hyperlinks" title="Permalink to this heading"></a></h2>
 <p>In markdown documents, links can be formatted in standard markdown, with the text in square brackets and the hyperlink in parentheses:</p>
 <div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="p">[</span><span class="n">text</span><span class="p">](</span><span class="n">hyperlink</span><span class="p">)</span>
 </pre></div>
@@ -127,7 +128,7 @@ $ python3 -m http.server
 </div>
 </section>
 <section id="additional-information">
-<h2>Additional information<a class="headerlink" href="#additional-information" title="Permalink to this headline"></a></h2>
+<h2>Additional information<a class="headerlink" href="#additional-information" title="Permalink to this heading"></a></h2>
 <p>This site is built from the master branch of <a class="reference external" href="https://github.com/carpentries/handbook/">this repo (carpentries/handbook)</a>. Changes can be previewed live here: <a class="reference external" href="http://docs-src.carpentries.org/">http://docs-src.carpentries.org/</a>.  Changes to the actual site <a class="reference external" href="https://docs.carpentries.org/">https://docs.carpentries.org/</a>  can take up to a day to go live once changes have been pushed to GitHub, since the contents of the site are behind a CDN (Content Distribution Network) that caches content.</p>
 <p>If you are making experimental changes to content please be sure to do so in a non-master, non-live branch. When your changes are complete and ready to be pushed to the live site, open a pull request in <a class="reference external" href="https://github.com/carpentries/handbook">carpentries/handbook</a>.</p>
 <p>Draft content can be added to the <a class="reference external" href="https://github.com/carpentries/usersguides/tree/master/drafts">drafts folder of the carpentries/userguides repo</a> (in the master branch) without breaking anything. Draft content is not built to the live site and these files may contain inaccurate or out of date information.</p>
