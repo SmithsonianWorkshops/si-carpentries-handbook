@@ -1,5 +1,7 @@
 # Workshop Outro
 
+[https://github.com/SmithsonianWorkshops/workshop-slides/raw/main/data-carpentry-wrap-up.pdf](https://github.com/SmithsonianWorkshops/workshop-slides/raw/main/data-carpentry-wrap-up.pdf)
+
 * Tie all of the lessons together.
 * Emphasize that the only way for attendees to really add the 
 skills covered to their analytical "toolbag", they will need to
