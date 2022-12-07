@@ -2,7 +2,7 @@
 
 The Smithsonian Carpentries group has our own Eventbrite account so that we can create and manage our own events. Contact Mike Trizna for the account password.
 
-Once you are logged in a si-datascience@si.edu, the easiest way to create a new Carpentries event is to copy an existing event and make small modifications. From the home page, click the profile dropdown in the top right corner and select "Manage Events". This will take you to a listing of all previous events. (If it does not, make sure to change the "Event Status" filter to "Past"). To create a new Carpentry workshop event, pick the most recent (or most similar) previous event, click the 3 vertical dots, and select "Copy Event".
+Once you are logged in as carpentries@si.edu, the easiest way to create a new Carpentries event is to copy an existing event and make small modifications. From the home page, click the profile dropdown in the top right corner and select "Manage Events". This will take you to a listing of all previous events. (If it does not, make sure to change the "Event Status" filter to "Past"). To create a new Carpentry workshop event, pick the most recent (or most similar) previous event, click the 3 vertical dots, and select "Copy Event".
 
 ![](images/copy_event.png)
 
