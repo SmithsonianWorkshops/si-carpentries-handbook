@@ -51,9 +51,7 @@ You can access the "Carpentries Alumni" Microsoft Team with this [direct link](h
 
 ### Monthly Carpentries Community Chats
 
-```{note}
-As of May 2024, we are currently pausing the Carpentries Community Calls due to bandwidth issues. If you sign up for the communications channels listed here, we will definitely let you know when we start them back up again.
-```
+***As of May 2024, we are currently pausing the Carpentries Community Calls due to bandwidth issues. If you sign up for the communications channels listed here, we will definitely let you know when we start them back up again.***
 
 The Carpentries Community Chats are a series of monthly lunchtime gatherings for Smithsonian-affiliated staff, fellows, interns, contractors, etc. to discuss topics relating to Smithsonian Data or Software Carpentry workshop content.
 
